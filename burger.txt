@@ -2,3 +2,8 @@ Ingredient:
 1. Buns
 2. Patty
 3. Lettuce
+
+Ingredients for Sauce:
+1. Tomato
+2. Salt
+3. Pepper
